@@ -1,3 +1,4 @@
+//go code
 package main
 
 import (
