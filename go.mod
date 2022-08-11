@@ -1,3 +1,4 @@
+//modul go
 module simpleapi
 
 go 1.16
